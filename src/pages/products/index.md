@@ -1,6 +1,7 @@
 ---
 templateKey: product-page
 title: Your Coffee
+subtitle: Your way
 image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
